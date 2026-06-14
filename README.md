@@ -1,6 +1,6 @@
-# Neupane Dental Clinic - AI Chatbot
+# Dental Clinic AI Chatbot
 
-A RAG-powered customer support chatbot for **Neupane Dental Clinic**, built with Flask, LangChain, FAISS, and the Groq LLM API. It answers patient questions about services, pricing, staff, and clinic information using a local knowledge base.
+A RAG-powered customer support chatbot for a dental clinic, built with Flask, LangChain, FAISS, and the Groq LLM API. It answers patient questions about services, pricing, staff, and clinic information using a local knowledge base.
 
 ---
 
